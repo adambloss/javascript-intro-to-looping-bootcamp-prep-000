@@ -12,7 +12,7 @@ for(i=0; i<25; i++) {
 function whileLoop(n) {
   return(n);
 while(n > 0){
-  return(--n)
+  console.log(--n)
 }
 console.log('done')
 }
