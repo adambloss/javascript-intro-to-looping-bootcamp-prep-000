@@ -10,9 +10,9 @@ for(i=0; i<25; i++) {
 }
 
 function whileLoop(n) {
-  console.log(n);
+  return(n);
 while(n > 0){
-  console.log(--n)
+  return(--n)
 }
 console.log('done')
 }
